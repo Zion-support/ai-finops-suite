@@ -1,13 +1,16 @@
 # AI FinOps Suite
 
-Optimize cloud and AI costs with intelligent FinOps automation.
+Optimize cloud and AI costs with unified visibility.
 
-Part of the **Zion App Network** — 550+ interlinked AI & IT tools by [Zion Tech Group](https://ziontechgroup.com).
+**Live app:** https://ziontechgroup.com/ai-finops-suite/
 
-- 🏠 Homepage: https://ziontechgroup.com
-- 📂 Full app catalog: https://ziontechgroup.com/apps/
-- 📢 About the network: https://ziontechgroup.com/app-network/
-- 💻 GitHub org: https://github.com/Zion-support
-- ✉️ Contact: commercial@ziontechgroup.com
+## Features
+- Unified cloud + LLM spend dashboard
+- Anomaly alerts and budget guardrails
+- Unit economics (cost per request/customer)
 
-Related apps: [finops-autopilot](https://github.com/Zion-support/finops-autopilot) · [zion-ai-cloud-cost-navigator](https://github.com/Zion-support/zion-ai-cloud-cost-navigator) · [llm-cost-calculator](https://github.com/Zion-support/llm-cost-calculator)
+## Zion App Network
+Part of the [Zion App Network](https://ziontechgroup.com/apps/).
+Related: [AI FinOps](https://github.com/Zion-support/zion-ai-finops) · [Cost Optimizer](https://github.com/Zion-support/zion-ai-cost-optimizer) · [Cloud Cost Navigator](https://github.com/Zion-support/zion-ai-cloud-cost-navigator) · [Cloud Budget Guard](https://github.com/Zion-support/cloud-budget-guard)
+
+© 2026 Zion Tech Group
