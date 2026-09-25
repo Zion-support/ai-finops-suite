@@ -1,6 +1,6 @@
 # AI FinOps Suite — Network Links
 
-Optimize cloud and AI spend with anomaly detection and rightsizing.
+Cloud and AI spend governance end-to-end.
 
 ## Live
 - App: https://ziontechgroup.com/ai-finops-suite/
