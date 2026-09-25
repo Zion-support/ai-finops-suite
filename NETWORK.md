@@ -1,6 +1,6 @@
 # AI FinOps Suite — Network Links
 
-Cloud and AI spend governance end-to-end.
+Cloud and AI spend allocation, anomaly detection and showback reporting.
 
 ## Live
 - App: https://ziontechgroup.com/ai-finops-suite/
@@ -9,8 +9,8 @@ Cloud and AI spend governance end-to-end.
 
 ## Related apps
 - [cloud-budget-guard](https://ziontechgroup.com/cloud-budget-guard/) · [GitHub](https://github.com/Zion-support/cloud-budget-guard)
-- [ai-model-cost-calculator](https://ziontechgroup.com/ai-model-cost-calculator/) · [GitHub](https://github.com/Zion-support/ai-model-cost-calculator)
 - [expense-audit-ai](https://ziontechgroup.com/expense-audit-ai/) · [GitHub](https://github.com/Zion-support/expense-audit-ai)
+- [ai-pricing-optimizer](https://ziontechgroup.com/ai-pricing-optimizer/) · [GitHub](https://github.com/Zion-support/ai-pricing-optimizer)
 
 ## Network
 - Homepage: https://ziontechgroup.com
